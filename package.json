@@ -1,0 +1,15 @@
+{
+  "name": "cache-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LorenzoRottigni/cache-proxy.git",
+  "author": "LorenzoRottigni <lorenzo@rottigni.net>",
+  "license": "MIT",
+  "dependencies": {
+    "ioredis": "^5.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "typescript": "^5.6.3"
+  }
+}
